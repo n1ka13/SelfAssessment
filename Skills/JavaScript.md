@@ -1,18 +1,18 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
   - `String`
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` u
   - `instanceof`
   - `...spread`
   - `...rest`

@@ -29,8 +29,8 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) h
+  - KISS principle h
 - Syntax and concepts
   - Value h
   - Identifier
