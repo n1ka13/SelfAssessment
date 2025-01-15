@@ -32,10 +32,10 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value h
   - Identifier
-  - Variable
-  - Constant
+  - Variable h
+  - Constant h
   - Scalar
   - Literal
   - Expression
