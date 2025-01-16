@@ -31,7 +31,7 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
